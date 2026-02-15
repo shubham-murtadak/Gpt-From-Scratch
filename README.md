@@ -1,4 +1,4 @@
-# MicroGPT Log Classifier 🚀
+# Gpt From Scratch 🚀
 
 A lightweight, character-level Generative Pre-trained Transformer (GPT) built from scratch to classify system logs. This project demonstrates the core principles of Transformers, Autograd, and Language Modeling in a compact, educational implementation.
 
