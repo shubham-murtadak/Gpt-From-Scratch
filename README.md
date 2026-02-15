@@ -4,7 +4,7 @@ A lightweight, character-level Generative Pre-trained Transformer (GPT) built fr
 
 ## 🎥 Demo
 
-[![MicroGPT Demo](https://img.youtube.com/vi/XVvQf7My7GI/0.jpg)](https://www.youtube.com/watch?v=XVvQf7My7GI)
+[![MicroGPT Demo](https://img.youtube.com/vi/XVvQf7My7GI/0.jpg)](https://youtu.be/yQqBtnar_2k)
 
 ## 📂 Project Structure
 
