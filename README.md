@@ -9,7 +9,7 @@ A lightweight, character-level Generative Pre-trained Transformer (GPT) built fr
 ## 📂 Project Structure
 
 ```bash
-microgpt/
+gpt/
 ├── Dataset/
 │   └── logs_5000.txt             # The training dataset (5000 unique log samples)
 ├── Notebook/
